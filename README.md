@@ -1,4 +1,4 @@
-<h3 align="center"> What's up everyone! I'm glad to see you here 🐦<h3>
+<h3 align="center"> What's up everyone! I'm glad to see you here! 🐦<h3>
   <p align="center">
   
   ## About me
@@ -7,7 +7,7 @@
   - 🇧🇷 Brazilian
   - 💻 Front-End Developer
   
-  ## Languages
+  ## Skills
   
   <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank"> <img width="<img width="32px" " src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
