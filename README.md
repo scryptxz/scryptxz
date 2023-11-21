@@ -1,4 +1,4 @@
-<h3 align="center"> What's up everyone! I'm glad to see you here! 🐦<h3>
+<h3 align="center"> What's up everyone?! I'm glad to see you here! 🐦<h3>
   <p align="center">
   
   ## About me
