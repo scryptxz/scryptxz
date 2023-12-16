@@ -3,7 +3,7 @@
   
   ## About me
   
-  - 🤵 19yo
+  - 🤵 20yo
   - 🇧🇷 Brazilian
   - 💻 Front-End Developer
   
