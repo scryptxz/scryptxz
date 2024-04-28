@@ -13,7 +13,7 @@
   
   ## Skills
   
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,nodejs,angular,bootstrap,php,figma,mysql)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,tailwind,nodejs,angular,bootstrap,php,figma,mysql)](https://skillicons.dev)
   
   <br>
   
