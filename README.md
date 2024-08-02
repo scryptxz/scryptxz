@@ -17,4 +17,4 @@
   
   <br>
   
-  ![RenanL15's GitHub Stats](https://github-readme-stats.vercel.app/api?username=renanl15&show_icons=true&count_private=true&hide_border=true&theme=dark)
+  ![ScryptRG's GitHub Stats](https://github-readme-stats.vercel.app/api?username=scryptrg&show_icons=true&count_private=true&hide_border=true&theme=dark)
