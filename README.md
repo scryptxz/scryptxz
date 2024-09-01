@@ -5,7 +5,7 @@
   
   - 🤵 20yo
   - 🇧🇷 Brazilian
-  - 💻 Front-End Developer
+  - 💻 Full-Stack Developer
   
   ## LinkedIn
   
@@ -13,7 +13,7 @@
   
   ## Skills
   
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,tailwind,nodejs,angular,bootstrap,php,figma,mysql)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,react,nextjs,angular,tailwind,nodejs,git,php,prisma,mysql)](https://skillicons.dev)
   
   <br>
   
