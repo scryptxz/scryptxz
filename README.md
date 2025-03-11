@@ -3,7 +3,7 @@
   
   ## About me
   
-  - 🤵 20yo
+  - 🤵 21yo
   - 🇧🇷 Brazilian
   - 💻 Full-Stack Developer
   
