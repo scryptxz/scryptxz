@@ -6,7 +6,6 @@
   - 🤵 21yo
   - 🇧🇷 Brazilian
   - 💻 Full-Stack Developer
-  - 💍
   ## LinkedIn
   
   [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/renan-almeida-lopes/)
